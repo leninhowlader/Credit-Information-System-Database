@@ -1,0 +1,1 @@
+This repository contains scripts for all database components of the Credit Information System, including functions, stored procedures, triggers, and views.
